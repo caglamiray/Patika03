@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HayvanatBahcesiDiagrami/HayvanatBahcesiDiagrami.iml" filepath="$PROJECT_DIR$/HayvanatBahcesiDiagrami/HayvanatBahcesiDiagrami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OnlineFilmSistemiDiagrami/OnlineFilmSistemiDiagrami.iml" filepath="$PROJECT_DIR$/OnlineFilmSistemiDiagrami/OnlineFilmSistemiDiagrami.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Patika03.iml" filepath="$PROJECT_DIR$/.idea/Patika03.iml" />
       <module fileurl="file://$PROJECT_DIR$/UcusYonetimSistemiDiagrami/UcusYonetimSistemiDiagrami.iml" filepath="$PROJECT_DIR$/UcusYonetimSistemiDiagrami/UcusYonetimSistemiDiagrami.iml" />
       <module fileurl="file://$PROJECT_DIR$/UniversiteDiagrami/UniversiteDiagrami.iml" filepath="$PROJECT_DIR$/UniversiteDiagrami/UniversiteDiagrami.iml" />
