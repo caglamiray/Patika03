@@ -1,0 +1,2 @@
+UcusYonetimDiagrami
+![UcusYonetimSistemiDiagrami.drawio.png](UcusYonetimSistemiDiagrami.drawio.png)
